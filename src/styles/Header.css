@@ -1,0 +1,32 @@
+.ro{
+    margin-top:25px ;
+    
+}
+.sp1{
+    color: #6f5499;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 25px;
+    margin-top: 30px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 50px;
+}
+.sp2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+}
+.cw{
+    border: #6f5499 1px solid;
+    border-radius: 40px;
+    padding: 14px;
+    font-size: 10px;  
+    margin-bottom: 10px; 
+    
+    
+}
+
+.i{
+    padding: 10px;
+    color: grey;
+    font-size: 20px;
+}

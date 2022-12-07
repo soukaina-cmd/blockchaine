@@ -1,0 +1,24 @@
+.div{
+    background-color: #f7f9fa;
+    height: 550px;
+    display: block;
+}
+.h1{
+    
+    margin-top: 40px;
+    text-align: center;
+    font-size: 45px;
+    
+    
+}
+.inpu{
+    box-sizing: border-box;
+    border-radius: 10px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    height: 80px;
+    margin-left: 100px;
+    
+}

@@ -1,0 +1,26 @@
+.s{
+    font-size: 15px;
+    color:rgb(138, 146, 165);
+    padding: 10px;
+    margin-top: 20px;
+    
+}
+
+.sp{
+    margin-top: 20px;
+}
+.t{
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: #f7f9fa;
+    height: 120px;
+    width: 187px;
+    display: inline-block;
+    padding: 40px;
+    margin: 5px;
+    margin-bottom: 10px;
+
+}
+.im{
+    height: 10px;
+}
